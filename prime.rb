@@ -1,1 +1,1 @@
-# A
+prime_number ["2",]
